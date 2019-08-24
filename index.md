@@ -2,14 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Repository List](./another-page.html).
+[Repository List](./repo-list.html).
 
 ## [22 Aug 2019](./blogs/22082019.html)
-Using [Kubernetes](https://kubernetes.io/), a container orchestration service, and [Docker](https://www.docker.com/) as the platform for containers. 
+Using [Kubernetes](https://kubernetes.io/), a container orchestration service, and [Docker](https://www.docker.com/) as the platform for containers. Using this Kubernetes, I am able to deploy a service that is easy to scale and reliable. The Docker image that I used is the [docker-pets](https://github.com/dockersamples/docker-pets)...[_Read More_](./blogs/22082019)
 
 
+
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
