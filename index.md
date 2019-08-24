@@ -4,7 +4,11 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Repository List](./another-page.html).
+
+## [22 Aug 2019](./blogs/22082019.html)
+Using [Kubernetes](https://kubernetes.io/), a container orchestration service, and [Docker](https://www.docker.com/) as the platform for containers. 
+
 
 There should be whitespace between paragraphs.
 
