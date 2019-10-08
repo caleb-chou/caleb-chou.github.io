@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# List of Repositories
+# [All repositories](https://github.com/caleb-chou?tab=repositories)
+
+## List of Repositories
 
 Here are some of the projects I've been working on!
 
@@ -21,6 +23,14 @@ Face detecting program written in python. Uses the MTCNN library and OpenCV.
 ## [Discord Music bot](https://github.com/caleb-chou/jff-epicbotname)
 
 Source code for a discord bot. Can play music from Youtube, including playlists! Written in Node.js
+
+## [CodingBat](https://github.com/caleb-chou/codingbat)
+
+Repository for 'mini labs' on [CodingBat](https://codingbat.com).
+
+## [Handwriting Detection](https://github.com/caleb-chou/jff-mlhandwriting)
+
+Code that can recognize handwritten digits. Using keras and the MNIST dataset.
 
 There's nothing down here! Go back up!
 
