@@ -4,7 +4,7 @@ layout: default
 
 # Caleb's Blog
 
-[Repository List](./repo-list.html).
+## [Repository List](./repo-list.html)
 
 ## [24 Aug 2019](./blogs/24082019.html)
 
