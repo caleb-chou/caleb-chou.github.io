@@ -6,6 +6,10 @@ layout: default
 
 ## [Repository List](./repo-list.html)
 
+## [23 Sep 2019](./blogs/23092019.html)
+
+Created a program that detects faces from webcam video input. Uses the MTCNN library and OpenCV
+
 ## [24 Aug 2019](./blogs/24082019.html)
 
 Set up a server which can host dedicated servers for games to play with friends without needing to be on the same LAN. Using the router's control panel, I forwarded ports to allow connections on specific ports. Also, I was able to forward ports to allow me to RDP into my home pc, giving me access to the computing horsepower if I need it when I'm not at home. [(_Read More_)](./blogs/24082019)
